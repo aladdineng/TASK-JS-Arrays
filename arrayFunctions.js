@@ -71,7 +71,7 @@ function eliminateTeam(teams) {
 }
 let teams = ["Brazil", "Germany", "Italy"];
 console.log(eliminateTeam(teams));
-/**
+/***
  * secondHalfOfArrayIfItIsEven(fruits):
  * - receives array `fruits`
  * - returns a new array that's the second half of the original array if it has an even number of elements
